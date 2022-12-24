@@ -1,4 +1,4 @@
-package com.example.leena2
+package com.cybinon.skatergirl
 
 import io.flutter.embedding.android.FlutterActivity
 
