@@ -1,7 +1,7 @@
 import 'package:flame/collisions.dart';
 import 'package:flame/components.dart';
-import 'package:leena2/main.dart';
-import 'package:leena2/world/ground.dart';
+import '../main.dart';
+import '../world/ground.dart';
 
 // new in Flame 1.1 (April 2022)
 class Leena extends SpriteAnimationComponent

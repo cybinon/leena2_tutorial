@@ -1,7 +1,7 @@
 import 'package:flame/collisions.dart';
 import 'package:flame/components.dart';
-import 'package:leena2/actors/leena.dart';
-import 'package:leena2/main.dart';
+import '../actors/leena.dart';
+import '../main.dart';
 import 'package:tiled/tiled.dart';
 
 class Gem extends SpriteComponent

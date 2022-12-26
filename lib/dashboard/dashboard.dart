@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flame/components.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
-import 'package:leena2/main.dart';
+import '../main.dart';
 
 import '../actors/leena.dart';
 

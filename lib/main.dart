@@ -8,10 +8,9 @@ import 'package:flame_audio/audio_pool.dart';
 import 'package:flame_texturepacker/flame_texturepacker.dart';
 import 'package:flame_tiled/flame_tiled.dart';
 import 'package:flutter/material.dart';
-import 'package:google_mobile_ads/google_mobile_ads.dart';
-import 'package:leena2/actors/leena.dart';
-import 'package:leena2/world/ground.dart';
-import 'package:leena2/world/intro.dart';
+import './actors/leena.dart';
+import './world/ground.dart';
+import './world/intro.dart';
 import 'package:tiled/tiled.dart';
 
 import 'actors/gem.dart';
